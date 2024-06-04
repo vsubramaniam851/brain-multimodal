@@ -1,2 +1,2 @@
-# brain-multimodal-integration
+# brain-multimodal
 Code coming soon!
