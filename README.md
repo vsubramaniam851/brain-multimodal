@@ -10,7 +10,7 @@
 [Ignacio Cases](https://stanford.edu/~cases/),
 [Andrei Barbu](http://0xab.com/)
 
-This is a the main code base of the paper "Revealing Vision-Language Integration of the Brain Using Multimodal Networks". 
+This is a the main code base of the paper "Revealing Vision-Language Integration of the Brain Using Multimodal Networks", accepted in ICML 2024. 
 
 ## Installation
 * pytorch >= 1.12.1
