@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Data
 The data is based on the [Brain Treebank](https://braintreebank.dev). In order to streamline this process, we zip the data with all the necessary preprocessing. This is available [here]()(This is coming soon!). 
 
-The directory should by named `data-by-subject`. In this directory, there are several subdirectories named according to a subject ID. Each directory contains a parquet file which contains the averaged neural response from each electrode across 161 time bins. We also include the stimuli in CSVs. The language-aligned CSV contains the words and paths to the corresponding frame. The vision-aligned CSVs contains paths to the scenes and the closest sentence.  
+The directory should be named `data-by-subject`. In this directory, there are several subdirectories named according to a subject ID. Each directory contains a parquet file which contains the averaged neural response from each electrode across 161 time bins. We also include the stimuli in CSVs. The language-aligned CSV contains the words and paths to the corresponding frame. The vision-aligned CSVs contains paths to the scenes and the closest sentence.  
 
 ## Regressions
 
@@ -58,4 +58,4 @@ If you want to run the analysis correctly, you should save your bootstrap indice
 
 ## Comparison Analysis
 
-We include the a python notebook, `comparison_analysis.ipynb`, to walk through our methodology to compare network scores against each other per electrode. We also include a raw results from our analysis to give the final output structure needed to perform the analysis if you want to do so on your own data.
+We include the a python notebook, `comparison_analysis.ipynb`, to walk through our methodology to compare network scores against each other per electrode. We will also include a raw results from our analysis to give the final output structure needed to perform the analysis if you want to do so on your own data.
