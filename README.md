@@ -2,7 +2,7 @@
 
 ### [Project Page](https://neuro-vis-lang.github.io) | [Paper](https://arxiv.org/abs/2406.14481)
 
-[Vighnesh Subramaniam](https://scholar.google.com/citations?hl=en&user=Or3MAdgAAAAJ&view_op=list_works&sortby=pubdate),
+[Vighnesh Subramaniam](https://vsubramaniam851.github.io),
 [Colin Conwell](https://colinconwell.github.io/)
 [Christopher Wang](https://czlwang.github.io/),
 [Gabriel Kreiman](https://klab.tch.harvard.edu/),
