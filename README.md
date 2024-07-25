@@ -3,7 +3,7 @@
 ### [Project Page](https://neuro-vis-lang.github.io) | [Paper](https://arxiv.org/abs/2406.14481)
 
 [Vighnesh Subramaniam](https://vsubramaniam851.github.io),
-[Colin Conwell](https://colinconwell.github.io/)
+[Colin Conwell](https://colinconwell.github.io/),
 [Christopher Wang](https://czlwang.github.io/),
 [Gabriel Kreiman](https://klab.tch.harvard.edu/),
 [Boris Katz](https://people.csail.mit.edu/boris/boris.html),
